@@ -28,10 +28,12 @@ The console output includes:
 <p align="center">
 <img src="https://github.com/user-attachments/assets/162d8d3b-1de7-4a2e-ba44-e1f9e8ab57df", width="720">
 </p>
+
 ### Example 2:
 <p align="center">
 <img src="https://github.com/user-attachments/assets/002468aa-7d19-4190-be3c-c62b9685a7be", width="720">
 </p>
+
 ### Example 3:
 <p align="center">
 <img src="https://github.com/user-attachments/assets/086593b0-c008-42a0-af7b-9acf318b48c1", width="720">
