@@ -38,6 +38,7 @@ The console output includes:
 <p align="center">
 <img src="https://github.com/user-attachments/assets/086593b0-c008-42a0-af7b-9acf318b48c1", width="720">
 </p>
+
 ## Difficulty: Almost Impossible to Beat
 With its enhanced logic, the bot uses optimal moves, making it a challenging opponent. It’s designed to minimize player wins by blocking potential winning moves and maximizing its chances of winning.
 
